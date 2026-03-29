@@ -6,6 +6,15 @@
 - Strong in end-to-end design: backend services, APIs, data models, and user-facing interfaces.
 - Focused on scalability, reliability, and maintainability, with pragmatic engineering decisions.
 
+## Claude Code Usage
+
+<p>
+  <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/badge-monthly.svg" alt="Claude Code tokens this month" />
+  <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/badge-today.svg" alt="Claude Code tokens today" />
+</p>
+
+<img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/heatmap.svg" alt="Claude Code activity heatmap" />
+
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
