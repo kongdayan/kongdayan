@@ -6,7 +6,7 @@
 - Strong in end-to-end design: backend services, APIs, data models, and user-facing interfaces.
 - Focused on scalability, reliability, and maintainability, with pragmatic engineering decisions.
 
-## Claude Code Usage
+## AI Coding Activity
 
 <p>
   <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/badge-monthly.svg" alt="Claude Code tokens this month" />
@@ -14,6 +14,13 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/heatmap.svg" alt="Claude Code activity heatmap" />
+
+<p>
+  <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/badge-codex-monthly.svg" alt="Codex tokens this month" />
+  <img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/badge-codex-today.svg" alt="Codex tokens today" />
+</p>
+
+<img src="https://raw.githubusercontent.com/kongdayan/kongdayan/main/claude-badge/heatmap-codex.svg" alt="Codex activity heatmap" />
 
 ## Tech Stack
 <p>
