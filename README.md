@@ -1,8 +1,9 @@
 <h1 align="center">Wenyan Kong</h1>
-<p align="center">Full-stack engineer focused on production AI systems, platform architecture, and developer tooling.</p>
+<p align="center">AI Full-stack engineer focused on production AI systems, platform architecture, and developer tooling.</p>
 
 ## Summary
-- Full-stack software engineer with hands-on experience building and operating AI-powered web applications in production.
+
+- AI Full-stack software engineer with hands-on experience building and operating AI-powered web applications in production.
 - Strong in end-to-end design: backend services, APIs, data models, and user-facing interfaces.
 - Focused on scalability, reliability, and maintainability, with pragmatic engineering decisions.
 
