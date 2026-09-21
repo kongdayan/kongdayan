@@ -1,6 +1,8 @@
 <h1 align="center">Wenyan Kong</h1>
 <p align="center">AI Full-stack engineer focused on production AI systems, platform architecture, and developer tooling.</p>
 
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/kongdayan)](https://ghfind.com/u/kongdayan?ref=badge)
+
 ## Summary
 
 - AI Full-stack software engineer with hands-on experience building and operating AI-powered web applications in production.
